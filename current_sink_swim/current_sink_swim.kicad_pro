@@ -326,6 +326,18 @@
     [
       "d8f9bd22-1078-406d-bafe-f69bb2710c23",
       ""
+    ],
+    [
+      "7bb47634-abd5-40f7-90e5-fb54860f3e74",
+      " Current Control"
+    ],
+    [
+      "114b53f6-b762-4b90-a865-8e9ebeba9179",
+      "Voltage Control"
+    ],
+    [
+      "c780c4cd-b4f5-47d4-b351-c02d1ac90761",
+      "Power regulation"
     ]
   ],
   "text_variables": {}

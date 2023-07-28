@@ -493,7 +493,7 @@
           (reference "#PWR01") (unit 1)
         )
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23/114b53f6-b762-4b90-a865-8e9ebeba9179"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR06") (unit 1)
         )
       )
     )
@@ -528,7 +528,7 @@
           (reference "R1") (unit 1)
         )
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23/114b53f6-b762-4b90-a865-8e9ebeba9179"
-          (reference "R8") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -563,7 +563,7 @@
           (reference "R1") (unit 1)
         )
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23/114b53f6-b762-4b90-a865-8e9ebeba9179"
-          (reference "R7") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -604,7 +604,7 @@
           (reference "U1") (unit 1)
         )
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23/114b53f6-b762-4b90-a865-8e9ebeba9179"
-          (reference "U3") (unit 2)
+          (reference "U2") (unit 2)
         )
       )
     )
@@ -613,7 +613,7 @@
   (symbol (lib_id "Device:R") (at 57.785 141.605 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 78fe3baa-08cc-4049-b28e-9be30509c3da)
-    (property "Reference" "R9" (at 59.69 140.335 0)
+    (property "Reference" "R4" (at 59.69 140.335 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "R" (at 59.69 142.875 0)
@@ -630,7 +630,7 @@
     (instances
       (project "current_sink_swim"
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23/114b53f6-b762-4b90-a865-8e9ebeba9179"
-          (reference "R9") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -661,7 +661,7 @@
           (reference "#PWR02") (unit 1)
         )
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23/114b53f6-b762-4b90-a865-8e9ebeba9179"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR07") (unit 1)
         )
       )
     )
@@ -767,7 +767,7 @@
           (reference "U1") (unit 3)
         )
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23/114b53f6-b762-4b90-a865-8e9ebeba9179"
-          (reference "U3") (unit 3)
+          (reference "U2") (unit 3)
         )
       )
     )
@@ -799,7 +799,7 @@
           (reference "C3") (unit 1)
         )
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23/114b53f6-b762-4b90-a865-8e9ebeba9179"
-          (reference "C4") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )

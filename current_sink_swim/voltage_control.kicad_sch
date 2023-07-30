@@ -362,6 +362,8 @@
     (uuid efaca500-961e-4387-8b9f-2108badd1bfb)
   )
 
+  (no_connect (at 57.785 137.795) (uuid aabd3ed5-8388-412e-8391-b946d38b9444))
+
   (wire (pts (xy 63.246 93.345) (xy 67.31 93.345))
     (stroke (width 0) (type default))
     (uuid 0d42f86f-51a7-4c00-9810-6ad88093af47)
@@ -476,6 +478,13 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 86e48461-3292-4aa7-8754-0b79636b2ae4)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 54.5768 93.345 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "Current_Sink-" (shape input) (at 75.057 158.75 270) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid c0ebd1dc-6331-45de-b8c7-6d97f36a050d)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 75.057 175.2213 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -685,8 +694,8 @@
     (property "MPN" "1N4148WT-7" (at 99.695 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d76b6fe6-c429-423c-92b0-eb65db4fac2e))
-    (pin "2" (uuid 4d758927-058f-4774-b389-e03c0bcb57b6))
+    (pin "1" (uuid a9e29f6c-15e7-4114-ad92-1deffc93d7ef))
+    (pin "2" (uuid b0d48f3e-7d33-469e-9e19-6774ea56d5d4))
     (instances
       (project "current_sink_swim"
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23/114b53f6-b762-4b90-a865-8e9ebeba9179"

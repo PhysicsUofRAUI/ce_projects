@@ -379,8 +379,8 @@
     (property "Datasheet" "~" (at 94.615 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f3958815-084e-4d79-bb36-a64337c85ec3))
-    (pin "2" (uuid c34778b5-3642-4fea-8152-411cf0f618fe))
+    (pin "1" (uuid 12b342ba-7b80-4ff9-8b82-85d75d460454))
+    (pin "2" (uuid aafee693-9694-4b0c-a0be-758fd4c080dd))
     (instances
       (project "current_sink_swim"
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23"

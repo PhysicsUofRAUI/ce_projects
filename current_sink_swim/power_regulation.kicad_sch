@@ -474,8 +474,8 @@
     (property "Datasheet" "~" (at 154.94 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 484b354d-546b-4305-bc83-d7b21d604cd2))
-    (pin "2" (uuid 00557414-e1f4-4825-811e-20df3d4c75a6))
+    (pin "1" (uuid 4790f1cf-988b-4904-85a8-281f4da8e762))
+    (pin "2" (uuid 5e026af5-251c-4e66-ab39-29b7d58c71a5))
     (instances
       (project "current_sink_swim"
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23"
@@ -570,8 +570,8 @@
     (property "MPN" "" (at 147.955 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9694f3b2-02db-49a5-a011-50f6e4750b08))
-    (pin "2" (uuid 52f62c70-0160-4cb8-a96c-bab7e8ba3287))
+    (pin "1" (uuid e8b7b0a7-cae0-4af4-af73-347f190769f7))
+    (pin "2" (uuid 1773ffed-e87e-457b-84cf-f79cd32aea00))
     (instances
       (project "current_sink_swim"
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23"

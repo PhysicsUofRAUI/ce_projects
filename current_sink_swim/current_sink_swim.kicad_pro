@@ -470,6 +470,10 @@
       {
         "netclass": "power",
         "pattern": "Current_Sink-"
+      },
+      {
+        "netclass": "power",
+        "pattern": "Net-(Q2-S)"
       }
     ]
   },

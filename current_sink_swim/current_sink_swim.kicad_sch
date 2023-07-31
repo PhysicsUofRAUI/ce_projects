@@ -478,8 +478,11 @@
     (property "Datasheet" "~" (at 67.945 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d5a5eb2f-145e-43ad-bddf-bc067bc87138))
-    (pin "2" (uuid 063edda5-b6f5-4344-8556-fe954b9db6f0))
+    (property "MPN" "282834-2" (at 67.945 36.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid cd54c76b-668a-4905-a933-0e898117e638))
+    (pin "2" (uuid e457f70f-8d7a-47f9-85d5-0182a46ce34b))
     (instances
       (project "current_sink_swim"
         (path "/d8f9bd22-1078-406d-bafe-f69bb2710c23"
